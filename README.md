@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mywednesday
+- 👀 I’m interested in mobile, shell,
+- 🌱 I’m currently learning Android.
