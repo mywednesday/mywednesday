@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mywednesday
-- 👀 I’m interested in mobile, shell,
+- 👋 Hi, I’m @zhiping
+- 👀 I’m interested in mobile, CI/CD, Productivity.
 - 🌱 I’m currently learning Android.
